@@ -1,0 +1,8 @@
+body{
+   background-image: url('BG.jpg');
+   background-size: cover;
+}
+
+.teste{
+    background: rgba(163, 164, 182, 0.8)
+}

@@ -1,0 +1,10 @@
+body{
+   background-image: url('BG.jpg');
+   background-size: cover;
+}
+body{
+     padding-top: 200px;
+}
+.teste{
+    background: rgba(163, 164, 182, 0.8)
+}
